@@ -1,0 +1,5 @@
+*
+!.gitignore
+!README.md
+!servertest.ini
+!servertest_SandboxVars.lua
